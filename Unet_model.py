@@ -68,6 +68,7 @@ def test():
     model = Unet(in_channels =1  , out_channels =1)
     preds = model(x)
     print(preds.shape)
+    print(x.shape)
     assert preds.shape == x.shape
 
 if __name__  == "__main__":
