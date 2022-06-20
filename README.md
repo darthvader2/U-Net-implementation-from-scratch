@@ -1,3 +1,3 @@
 # U-Net Architecture 
 
-![image]{images/u-net-architecture.png}
+![Alt text](u-net-architecture.png?raw=true "Optional Title")
